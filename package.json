@@ -1,0 +1,26 @@
+{
+  "name": "r_p_g_c",
+  "version": "1.0.0",
+  "description": "Use this starter kit to understand how to support sustainable production with recycled materials, responsible production, and improve waste recycling. The starter kit provides tools and resources from our experts to help you jump-start your own solution for the 2021 Call for Code Global Challenge.\r * Add nodemon module :- npm install nodemon\r * Add express module :- npm install express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "rajat": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatpayaal/Responsible_production_and_green_consumption.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajatpayaal/Responsible_production_and_green_consumption/issues"
+  },
+  "homepage": "https://github.com/rajatpayaal/Responsible_production_and_green_consumption#readme"
+}
